@@ -1,0 +1,29 @@
+# Comparison operators
+# Returns : True if the statement is true else returns false
+
+a = 10
+b = 3
+
+# a > b : True
+print(a > b)
+
+# a < b : False
+print(a < b)
+
+# a >= b : True
+print(a >= b)
+
+# a <= b : False
+print(a <= b)
+
+# a == b : False
+print(a == b)
+
+# a != b : True
+print(a != b)
+
+# a is b : False
+print(a is b)
+
+# a is not b : True
+print(a is not b)
