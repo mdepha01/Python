@@ -3,3 +3,4 @@
 3. ListComprehension.py :  Takes multiple inputs from user using the List comprehension.
 4. ArithmeticOperator.py : Shows how arithmetic operators work.
 5. ComparisonOperators.py : Shows how operation operators work.
+6. StringBasigs.py : Shows the basics of string
