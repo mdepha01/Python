@@ -5,3 +5,4 @@
 5. ComparisonOperators.py : Shows how operation operators work.
 6. StringBasigs.py : Shows the basics of string.
 7. Lists.py : shows basics about a python list.
+8. DictionaryBasics.py: covers the basics of python dictionaries
