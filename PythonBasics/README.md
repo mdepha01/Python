@@ -7,3 +7,4 @@
 7. Lists.py : shows basics about a python list.
 8. DictionaryBasics.py: covers the basics of python dictionaries.
 9. OOP.py shows the basics of OOP.
+10. SortAlgorithms.py : covers basic sort algorithms in python.
