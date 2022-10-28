@@ -9,3 +9,4 @@
 9. OOP.py shows the basics of OOP.
 10. SortAlgorithms.py : covers basic sort algorithms in python.
 11. ChainMaps.py: covers chainmap basics of creating and accessing.
+12. LinkedListInsert.py : covers creation of a single linked list and inserting nodes in the linked list.
