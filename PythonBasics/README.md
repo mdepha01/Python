@@ -10,3 +10,4 @@
 10. SortAlgorithms.py : covers basic sort algorithms in python.
 11. ChainMaps.py: covers chainmap basics of creating and accessing.
 12. LinkedListInsert.py : covers creation of a single linked list and inserting nodes in the linked list.
+13. FileBasics.py: covers the basics of reading and writing from, to a file respectively.
